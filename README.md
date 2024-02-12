@@ -13,7 +13,7 @@
   <div id="badges">
    
     <a href="https://t.me/qaengineermaster" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+      <img src="[https://cdn-icons-png.flaticon.com/512/2111/2111646.png](https://www.google.com/search?sca_esv=30cece12f57037db&sxsrf=ACQVn09qd_SoAJbc3UuvfFol2hv9UmNc7g:1707751801986&q=%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC+%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjv_JWcj6aEAxUxKxAIHS2aCFoQ0pQJegQIChAB&biw=1280&bih=598&dpr=1.5#imgrc=ctQCuJYjW5a82M)" width="40" height="40" alt="telegram" />
     </a>
   </div>
 
